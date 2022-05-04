@@ -22,5 +22,16 @@
 <li>Recherches sur le capteur BMP180</li>
 <li>Recherches sur la connexion Hardware/React</li>
 <li>Recherches sur la connexion Hardware/BDD</li>
+</ul>
 
+<hr>
 
+## Mercredi 04/05/2022
+
+<ul>
+<li>Installation de Nodejs, Npm et Nvm</li>
+<li>Approndissements des recherches de connexion Hardware/React/BDD</li>
+<li>Forkage/clonage du projet et mise en place de l'upstream</li>
+</ul>
+
+<hr>
