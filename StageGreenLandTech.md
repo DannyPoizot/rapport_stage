@@ -35,3 +35,16 @@
 </ul>
 
 <hr>
+
+## Jeudi 05/05/2022 et Vendredi 06/05/2022
+
+<ul>
+<li>Tentative du déploiement du projet - impossible pour le moment.</li>
+</ul>
+
+<hr>
+
+## Lundi 09/05/2022 et Mardi 10/05/2022 
+
+<ul>
+<li>Maquettage Front avec Figma, Landing Page et Dashboard.</ul>
