@@ -47,4 +47,17 @@
 ## Lundi 09/05/2022 et Mardi 10/05/2022 
 
 <ul>
-<li>Maquettage Front avec Figma, Landing Page et Dashboard.</ul>
+<li>Maquettage Front avec Figma, Landing Page et Dashboard.<li>
+</ul>
+
+## Jours suivants (11/05/2022 au 13/05/2022)
+
+<ul>
+<li>Maquettage et updating des wireframes.<li>
+</ul>
+
+## Semaine du 16/05/2022 au 20/05/2022
+
+<ul>
+<li>Remaniement des wireframes, point global sur le projet.</li>
+</ul>
